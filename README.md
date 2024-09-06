@@ -35,7 +35,7 @@ Pro-Search was inspired by the need to quickly find answers during open-book exa
 - Once the project is open in Android Studio, connect an Android device or start an emulator.
 - Click on the "Run" button to build and run the app.
 
-## Usage
+## Use
 1. Launch the Pro-Search app.
 2. Use the **Select PDFs** button to add one or more PDF, Word, or Excel files.
 3. Click **Search** to input the keyword, and the app will search through all the selected files for the keyword.
