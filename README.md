@@ -31,7 +31,7 @@ Pro-Search was inspired by the need to quickly find answers during open-book exa
 
 ```bash
 git clone https://github.com/your-username/Pro-Search.git
-cd Pro-Search
+cd Pro-Search```
 
 ### Open in Android Studio
 - Open Android Studio, click on "Open an existing project", and navigate to the folder where you cloned this project.
