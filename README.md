@@ -1,4 +1,4 @@
-# Pro-Search
+<h1 align="center">Pro-Search</h1>
 
 **Pro-Search** is an Android application that allows users to efficiently search for keywords across multiple PDF, Word, and Excel documents. The app simplifies searching for content within various document formats by consolidating results in one place, saving time and effort.
 
