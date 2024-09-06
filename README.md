@@ -27,14 +27,8 @@ Pro-Search was inspired by the need to quickly find answers during open-book exa
 - Android Studio installed on your machine.
 - Basic knowledge of Android development.
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Pro-Search.git
-cd Pro-Search
-```
 ### Open in Android Studio
-- Open Android Studio, click on "Open an existing project", and navigate to the folder where you cloned this project.
+- Open Android Studio, click on "Open an existing project", and navigate to the folder where you downloaded this project.
 - Let Android Studio sync the project and install any required dependencies.
 
 ### Build and Run
