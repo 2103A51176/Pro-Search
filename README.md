@@ -32,3 +32,18 @@ Pro-Search was inspired by the need to quickly find answers during open-book exa
 ```bash
 git clone https://github.com/your-username/Pro-Search.git
 cd Pro-Search
+
+### Open in Android Studio
+- Open Android Studio, click on "Open an existing project", and navigate to the folder where you cloned this project.
+- Let Android Studio sync the project and install any required dependencies.
+
+### Build and Run
+- Once the project is open in Android Studio, connect an Android device or start an emulator.
+- Click on the "Run" button to build and run the app.
+
+## Usage
+1. Launch the Pro-Search app.
+2. Use the **Select PDFs** button to add one or more PDF, Word, or Excel files.
+3. Click **Search** to input the keyword, and the app will search through all the selected files for the keyword.
+4. To remove any selected file, use the **"X"** button next to the file name.
+
